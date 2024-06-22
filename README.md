@@ -1,4 +1,4 @@
-# MDM-Project
+# Mobile Device Management-Project-Using Microsoft Intune
 
 ## This project is to display knowledge of the Microsoft Intune suite
 
