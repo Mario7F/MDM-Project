@@ -15,7 +15,9 @@
   - Microsoft Intune
   - Powershell
 
-### Objectives
+### Objectives 1
 
   - Set up on premise environment, connect a workstation to the domain and sync the environment to Azure.
   - Set up a autopilot deployment for Windows
+  - Create users and assign them to a priviledge group to assist with administrative task in Intune
+  - Use Remote Help to assist in troubleshooting
