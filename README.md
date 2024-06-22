@@ -18,4 +18,4 @@
 ### Objectives
 
   - Set up on premise environment, connect a workstation to the domain and sync the environment to Azure.
-  - Set up a autopilot deployment using Microsoft Intune
+  - Set up a autopilot deployment for Windows
