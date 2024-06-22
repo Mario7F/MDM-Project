@@ -1,4 +1,6 @@
-# Mobile Device Management-Project-Using Microsoft Intune
+# Mobile Device Management-Project-Microsoft Intune
+
+# ![Untitled-2024-06-22-0749](https://github.com/Mario7F/LinuxAdminProjects/assets/59115100/3d4075cb-c302-4789-96d3-a5b75a893fd6)
 
 ## This project is to display knowledge of the Microsoft Intune suite
 
