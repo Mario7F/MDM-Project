@@ -7,9 +7,9 @@
 ### Tools used to accomplish the mission
 
   - Proxmox
-  - Windows Server 2019
+  - Windows Server 2019 (Active Directory/DNS)
   - Active Directory Domain Service
-  - Windows 10 Pro Edition
+  - Windows 10 Enterprise Edition
   - Entra ID Connect
   - Azure
   - Microsoft Intune
