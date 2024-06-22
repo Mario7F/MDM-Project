@@ -19,5 +19,5 @@
 
   - Set up on premise environment, connect a workstation to the domain and sync the environment to Azure.
   - Set up a autopilot deployment for Windows
-  - Create users and assign them to a priviledge group to assist with administrative task in Intune
+  - Create users and assign them to a priviledge group to assist with administrative task in Intune (scope tag). Create a custom role to perform their duty, compliance policies, device configuration and endpoint analytics.
   - Use Remote Help to assist in troubleshooting
