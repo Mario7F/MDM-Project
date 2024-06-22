@@ -15,7 +15,7 @@
   - Microsoft Intune
   - Powershell
 
-### Objectives 1
+### Objective - Phase 1
 
   - Set up on premise environment, connect a workstation to the domain and sync the environment to Azure.
   - Set up a autopilot deployment for Windows
