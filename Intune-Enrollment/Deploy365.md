@@ -37,6 +37,19 @@
 <img width="1023" alt="Screen Shot 2024-06-23 at 7 06 24 AM" src="https://github.com/Mario7F/MDM-Project/assets/59115100/996df928-104a-4e56-86c9-42f8489dfd00">
 
 
+### After sign in launch M365
+
+<img width="1023" alt="Screen Shot 2024-06-23 at 8 15 32 AM" src="https://github.com/Mario7F/MDM-Project/assets/59115100/144f2f9c-8134-4576-9603-68f58f730e88">
+
+### Sign into the account
+
+<img width="1023" alt="Screen Shot 2024-06-23 at 8 16 07 AM" src="https://github.com/Mario7F/MDM-Project/assets/59115100/98fbc747-1b02-467d-8960-bb20aec79fca">
+
+### Add profile to Outlook
+
+<img width="1023" alt="Screen Shot 2024-06-23 at 8 18 42 AM" src="https://github.com/Mario7F/MDM-Project/assets/59115100/5ae338cc-2976-4cf8-9274-926c1de193c0">
+
+
 
 
 
