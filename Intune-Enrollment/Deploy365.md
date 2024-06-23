@@ -27,6 +27,11 @@
 
 ![Screen Shot 2024-06-23 at 7 02 05 AM](https://github.com/Mario7F/MDM-Project/assets/59115100/8832da12-0220-4e9c-b2eb-c637570e0e8f)
 
+### Check to see if the software has been deployed
+
+![Screen Shot 2024-06-23 at 8 45 45 AM](https://github.com/Mario7F/MDM-Project/assets/59115100/23ab7643-6c36-4880-9aaa-ab65d5d278fe)
+
+
 ### Sign into the Windows device, (new prompts to keep the device compliant)
 
 <img width="1023" alt="Screen Shot 2024-06-23 at 7 04 15 AM" src="https://github.com/Mario7F/MDM-Project/assets/59115100/097ab2f5-db39-42f9-b57b-fffbf472d28f">
@@ -57,6 +62,31 @@
 # Deploy app to iOS device
 
 ### 
+
+![Screen Shot 2024-06-23 at 8 23 17 AM](https://github.com/Mario7F/MDM-Project/assets/59115100/228a2510-b4dd-4b47-987a-adc0e677a68e)
+
+### 
+
+![Screen Shot 2024-06-23 at 8 24 23 AM](https://github.com/Mario7F/MDM-Project/assets/59115100/3bd9b3a2-4a18-43c8-87fe-68368a350d57)
+
+###
+
+![Screen Shot 2024-06-23 at 8 24 53 AM](https://github.com/Mario7F/MDM-Project/assets/59115100/30c3f8f7-04ea-4c29-a3b1-e603601de3e2)
+
+###
+
+![Screen Shot 2024-06-23 at 8 25 15 AM](https://github.com/Mario7F/MDM-Project/assets/59115100/ae1aad66-25a2-4c34-aa33-901a43317c20)
+
+###
+
+![Screen Shot 2024-06-23 at 8 25 37 AM](https://github.com/Mario7F/MDM-Project/assets/59115100/d2382aae-3ed9-43da-867f-8c930fc0714f)
+
+
+###
+
+
+
+
 
 
 
