@@ -87,10 +87,22 @@
 ![Screen Shot 2024-06-23 at 8 53 25 AM](https://github.com/Mario7F/MDM-Project/assets/59115100/e6e0dcc7-5fd4-418d-83c1-9dc429c49ac5)
 
 
+![IMG_6858](https://github.com/Mario7F/MDM-Project/assets/59115100/0009f297-128e-496e-a4e5-71e864734465)
+
+
+![IMG_6859](https://github.com/Mario7F/MDM-Project/assets/59115100/b88a9678-d8ae-4b99-af64-e4800e3fa63d)
+
+
+![IMG_6860](https://github.com/Mario7F/MDM-Project/assets/59115100/bb8f4453-183a-4489-bf6e-c45de916199c)
+
+
+
+![IMG_6861](https://github.com/Mario7F/MDM-Project/assets/59115100/8c80a79d-3d51-4634-9f90-56ca5a9b85e7)
 
 
 
 
+![IMG_6862](https://github.com/Mario7F/MDM-Project/assets/59115100/7d20e592-ae54-4c23-ac9b-f1757bf94d0c)
 
 
 
