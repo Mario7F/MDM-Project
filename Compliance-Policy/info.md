@@ -23,3 +23,13 @@ The result of Non-Compliance
 
 - Remediated: The device OS enforces compliance (force the user to update OS or pin)
 - Quarantined: They will get a message that the device is not compliant
+
+
+Conditional Access
+
+  - Conditional Access is a tool in Azure that brings signals together for access decision making
+  - Signals help in decision making on whether to allow access or enforce certain policies
+
+Common Signals
+
+  - Conditional Access takes signals from various sources into account when making decisions (Identities, Endpoints, Applications, Infrastructure and Network)
