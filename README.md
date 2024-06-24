@@ -4,6 +4,13 @@
 
 ## This project is to display knowledge of the Microsoft Intune suite
 
+ - Creating users and groups
+ - Importing devices (Apple Mobile) and workstation (Windows Client)
+ - Creating compliance policy
+ - Setting up configuration profiles
+ - Adding Endpoint security to provide a security baseline
+ - Adding troubleshooting tips for known issues
+
 ### Tools used to accomplish the mission
 
   - Proxmox
